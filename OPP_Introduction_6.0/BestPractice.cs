@@ -7,7 +7,7 @@ namespace OOP_Introduction
     interface BestPractices
     {
         string Study();
-
+        string eat();
         string Rest();
     }
 }
